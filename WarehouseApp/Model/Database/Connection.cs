@@ -10,7 +10,7 @@ namespace WarehouseApp.Model
         private string username = "root";
         private string password = "";
         private string database = "warehouse";
-        private int port = 4406; // Your PORT MySQL, usually using 3306 as Base Port MySQL
+        private int port = 3306;
 
 
         private MySqlConnection _conn;
