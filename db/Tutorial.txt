@@ -1,0 +1,12 @@
+1. Open on your web server like a XAMPP, Laragon or Other Web Server.
+2. If you using XAMPP, Open the XAMPP and Turn On Apache and Mysql.
+3. Then open "http://localhost/phpmyadmin/index.php" in Google Chrome.
+2. Create Database warehouse.
+3. Use warehouse database or if your use PHPMyAdmin you can click the warehouse database on the side bar in PHPMyAdmin.
+4. Clik import and choose file warehouse.sql
+5. Scroll and click Import
+6. End
+
+So you now can test the Warehouse Application in Visual Studio
+
+Happy Hacking:)
